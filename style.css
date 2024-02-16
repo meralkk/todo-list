@@ -26,6 +26,8 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    justify-content: center;
+    padding-bottom: 22px;
 }
 
 .todo-app h2 img {
